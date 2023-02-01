@@ -1,6 +1,6 @@
-### Hi, I'm Kythuen.
+### Hi, I'm Kythuen
 
-Web Frontend Developer.
+Web Frontend Developer
 
 **Languages and Tools:** 
 
