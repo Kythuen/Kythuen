@@ -1,15 +1,14 @@
-### Hi there, I'm Kythuen 👋
+### Hi, I'm Kythuen.
 
-A web frontend architect.
-
-[![Kythuen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kythuen&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kythuen&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+A frontend developer.
 
 **Languages and Tools:**  
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+[![Kythuen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kythuen&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kythuen&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
